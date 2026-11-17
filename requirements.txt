@@ -1,0 +1,13 @@
+
+mne
+mne-bids
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+jupyterlab
+ipykernel
+openneuro-py
+pytest
+statsmodels
