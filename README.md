@@ -1,5 +1,3 @@
-# seeg-signal-analysis
-
 # SEEG Signal Analysis
 
 An ongoing learning project exploring the analysis of intracranial EEG (stereo-EEG / SEEG) recordings using Python.
@@ -70,14 +68,6 @@ This repository is intended to evolve as I continue learning computational neuro
 
 My next step is to work through the [Neuromatch Academy Computational Neuroscience coursebook](https://compneuro.neuromatch.io/tutorials/intro.html), particularly its material on neural signals, signal processing, and linear systems.
 
-As I progress, I plan to add further notebooks, improve the existing analyses, refine the reusable code, and explore more advanced methods. Potential future directions include:
-
-- More systematic preprocessing and artefact assessment.
-- Analysis of additional participants and recording sessions.
-- More detailed time-frequency analysis.
-- Multivariate time-series modelling and functional connectivity, potentially including gPDC.
-
-These are learning goals rather than claims about work already completed.
 
 ## Project structure
 
